@@ -1,6 +1,8 @@
 # Wedding Site Template
 
-A simple, responsive, easy-to-edit wedding website template.  
+A simple, responsive, easy-to-edit wedding website template.
+
+[Demo](https://jasonlutterloh.github.io/wedding-site-template/)
 
 ## Overview
 
